@@ -5,7 +5,7 @@
     "p_file_name": "customer.csv"
   },
   {
-    "p_rel_url": "Anusha158/AdventureWorks-DE-project/refs/heads/master/data/AdventureWorks_Returns.csv",
+    "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Returns.csv",
     "p_sink_folder": "Returns",
     "p_file_name": "returns.csv"
   }
