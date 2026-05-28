@@ -1,6 +1,6 @@
 [
   {
-    "p_rel_url": "Anusha158/AdventureWorks-DE-project/refs/heads/master/data/AdventureWorks_Customers.csv",
+    "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Customers.csv",
     "p_sink_folder": "Customer",
     "p_file_name": "customer.csv"
   },
