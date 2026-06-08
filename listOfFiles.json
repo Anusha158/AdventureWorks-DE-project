@@ -8,5 +8,10 @@
     "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Returns.csv",
     "p_sink_folder": "Returns",
     "p_file_name": "returns.csv"
+  },
+  {
+    "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Products.csv",
+    "p_sink_folder": "Products",
+    "p_file_name": "Products.csv"
   }
 ]
