@@ -28,5 +28,12 @@
     "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Territories.csv",
     "p_sink_folder": "Territories",
     "p_file_name": "AdventureWorks_Territories.csv"
+  },
+ {
+    "p_rel_url": "/Anusha158/AdventureWorks-DE-project/master/data/AdventureWorks_Calendar.csv",
+    "p_sink_folder": "Calendar",
+    "p_file_name": "AdventureWorks_Calendar.csv"
   }
+  
+  
 ]
